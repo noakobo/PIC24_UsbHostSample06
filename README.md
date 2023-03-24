@@ -1,4 +1,4 @@
-PICでUSBホストやりたい(#6)転送の締めとパケットの勉強
+PICでUSBホストやりたい(#6)転送の締めとパケットの勉強<br>
 https://youtu.be/bXmKJtHrWqw<br>
 <br>
 「IchigoJamでUSBキーボードを使いたい」ってのがUSBを始めたきっかけ。<br>
